@@ -24,14 +24,14 @@
 
 ### Задание 1
 
-![Zabbix]
+![Zabbix](https://github.com/dvolkov15/zabbix_2/blob/main/img/task1_zabbix2.PNG)
 
 
 ### Задание 2 и 3
 
 Хосты из Configuration host
 
-![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix_2/blob/main/img/task1_zabbix2.PNG)
+![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix_2/blob/main/img/task2-3.PNG)
 
 Последние данные собранные с помощью встроенного шаблона Linux by zabbix и моего шаблона TASK2-3
 
