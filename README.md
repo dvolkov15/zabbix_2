@@ -31,19 +31,17 @@
 
 Хосты из Configuration host
 
-![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix_2/blob/main/img/task2-3.PNG)
+![Configuration host](https://github.com/dvolkov15/zabbix_2/blob/main/img/task2-3.PNG)
 
 Последние данные собранные с помощью встроенного шаблона Linux by zabbix и моего шаблона TASK2-3
 
-![Configuration host](https://github.com/dvolkov15/zabbix_2/blob/main/img/task2-3%20latest%20data.PNG)
-
-![Latest Data](https://github.com/dvolkov15/zabbix/blob/main/img/task2-3 latest data.PNG)
+![Latest Data](https://github.com/dvolkov15/zabbix_2/blob/main/img/task2-3%20latest%20data.PNG)
 
 ### Задание 4
 
 Кастомный дашборд
 
-![dashbord](https://github.com/dvolkov15/zabbix/blob/main/img/task4_zabbix2.PNG)
+![dashbord](https://github.com/dvolkov15/zabbix_2/blob/main/img/task4_zabbix2.PNG)
 
 
 
