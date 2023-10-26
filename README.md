@@ -24,8 +24,8 @@
 
 ### Задание 1
 
-![Zabbix](https://github.com/dvolkov15/zabbix_2/blob/main/img/task1_zabbix2.PNG)
-
+![template](https://github.com/dvolkov15/zabbix_2/blob/main/img/task1_zabbix2.PNG)
+![template_item](https://github.com/dvolkov15/zabbix_2/blob/main/img/task1_zabbix2_item.PNG)
 
 ### Задание 2 и 3
 
