@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "Система мониторинга Zabbix" - Волков Дмитрий
+# Домашнее задание к занятию "Система мониторинга Zabbix - 2" - Волков Дмитрий
 
 
 ### Инструкция по выполнению домашнего задания
@@ -24,28 +24,27 @@
 
 ### Задание 1
 
-![Zabbix](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix.png)
+![Zabbix](https://github.com/dvolkov15/zabbix/blob/main/img/task1_zabbix2.png)
 
 
----
+### Задание 2 и 3
 
-### Задание 2
+Хосты из Configuration host
 
+![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix/blob/main/img/task2-3.PNG)
 
-Cкриншот раздела Configuration > Hosts
+Последние данные собранные с помощью встроенного шаблона Linux by zabbix и моего шаблона TASK2-3
 
-![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_1.png)
+![Configuration host](https://github.com/dvolkov15/zabbix/blob/main/img/task2-3.PNG)
 
-Скриншот лога zabbix agent
+![Latest Data](https://github.com/dvolkov15/zabbix/blob/main/img/task2-3 latest data.PNG)
 
-![zabbix_log_test_mashine](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_log_test_mashine.png)
+### Задание 4
 
-![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_2.png)
+Кастомный дашборд
 
-Cкриншоты раздела Monitoring > Latest data для обоих хостов
+![dashbord](https://github.com/dvolkov15/zabbix/blob/main/img/task4_zabbix2.PNG)
 
-![zabbix_host_FRR](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_host_FRR3.png)
-![zabbix_host_TEST_Mashine](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_host_TEST_Mashine.png)
 
 
 
