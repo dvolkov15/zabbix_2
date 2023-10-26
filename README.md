@@ -31,7 +31,7 @@
 
 Хосты из Configuration host
 
-![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix/blob/main/img/task2-3.PNG)
+![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix_2/blob/main/img/task1_zabbix2.PNG)
 
 Последние данные собранные с помощью встроенного шаблона Linux by zabbix и моего шаблона TASK2-3
 
