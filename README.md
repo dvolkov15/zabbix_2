@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-![Zabbix](https://github.com/dvolkov15/zabbix/blob/main/img/task1_zabbix2.png)
+![Zabbix]
 
 
 ### Задание 2 и 3
