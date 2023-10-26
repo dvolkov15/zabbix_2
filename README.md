@@ -24,7 +24,11 @@
 
 ### Задание 1
 
+Template
+
 ![template](https://github.com/dvolkov15/zabbix_2/blob/main/img/task1_zabbix2.PNG)
+
+RAM & CPU Item
 ![template_item](https://github.com/dvolkov15/zabbix_2/blob/main/img/task1_zabbix2_item.PNG)
 
 ### Задание 2 и 3
